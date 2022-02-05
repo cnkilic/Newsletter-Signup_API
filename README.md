@@ -1,2 +1,2 @@
 # Newsletter-Signup_API
-Heroku and Mailchimp API usage 
+Link for SignUp page https://blooming-depths-93936.herokuapp.com/
